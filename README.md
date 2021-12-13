@@ -4,6 +4,8 @@ Here the user interacts with the inquirer CLI that generates some questions and 
 
 ## Github URL
 
+https://anabwarsame.github.io/read-me-generator/
+
 ## Screen recording link
 
 https://watch.screencastify.com/v/KGPwgPqLH68QawlPLLAH

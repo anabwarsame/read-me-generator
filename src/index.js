@@ -5,13 +5,27 @@ console.log("hi");
 const createMd = (answer) => {
   return `# ${answer.title} 
   \`\`\` ${answer.description} \`\`\` 
-  ## ${answer.installation}
-  ## ${answer.user}
-  ## ${answer.tests}
-  ## ${answer.licenses}
-  ### ${answer.github}
-  ### ${answer.email}
-  ### ${answer.contributors}
+
+  ## Installations
+  \`\`\`${answer.installation} \`\`\`
+
+   ## User Story
+   \`\`\` ${answer.user} \`\`\`
+
+  ## Tests
+  \`\`\` ${answer.tests} \`\`\`
+
+  ## Licenses
+  \`\`\` ${answer.licenses} \`\`\`
+
+  ## Github 
+  \`\`\`  ${answer.github} \`\`\` 
+
+  ## Email address
+  \`\`\` ${answer.email} \`\`\`
+
+  ## Contributors
+  \`\`\` ${answer.contributors} \`\`\`
   `;
 };
 inquirer
@@ -38,7 +52,7 @@ inquirer
     },
     {
       type: "input",
-      name: "User",
+      name: "user",
       message: "how does the user use your application",
     },
     {
