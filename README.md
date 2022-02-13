@@ -28,6 +28,14 @@ in order to run my series of questions run this command line
 
 inquirer CLI
 
+<img width="920" alt="Screenshot 2022-02-13 at 19 58 51" src="https://user-images.githubusercontent.com/91003882/153772880-00271bad-c108-41b1-8829-c5bc0863694d.png">
+
+code
+
+<img width="1214" alt="Screenshot 2022-02-13 at 19 59 36" src="https://user-images.githubusercontent.com/91003882/153772931-9542b48c-e376-4905-adc6-647c439c56fb.png">
+
+<img width="1214" alt="Screenshot 2022-02-13 at 19 59 44" src="https://user-images.githubusercontent.com/91003882/153772939-3c3ec7f8-266d-47ac-946b-ab65c12ad6ac.png">
+
 Readme.md generated
 
-<img width="1440" alt="Screenshot 2021-12-13 at 15 21 44" src="https://user-images.githubusercontent.com/91003882/145839331-eebeaeef-0710-4684-b06a-54e8300de11c.png">
+<img width="1214" alt="Screenshot 2022-02-13 at 19 59 20" src="https://user-images.githubusercontent.com/91003882/153772910-eca2f5dd-b690-4e47-b8df-0b77f6e1741b.png">
